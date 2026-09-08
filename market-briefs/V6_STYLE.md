@@ -81,7 +81,7 @@ Use the **Editorial C / Financial Times–inspired** layout as the default for a
 - Include KOSPI200 night futures when available and label the close time.
 - Micron: verify recent official earnings and next official earnings schedule; mark unconfirmed items as unconfirmed.
 - Event dates/times must be exact in KST and ET when officially published; never invent missing official times.
-- **SK하이닉스 ADR content is completely excluded.** Use only the Korean-listed SK hynix common stock when relevant.
+- Keep instrument coverage to the explicitly requested market instruments only. Do not add commentary, exclusion notices, verification notes, or legacy listing-status topics for instruments outside that scope.
 
 ## Permanent-link rule
 - Save each generated HTML under `market-briefs/YYYY-MM-DD-HHMM.html`.
